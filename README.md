@@ -2,7 +2,7 @@
 
 Радар — это не ещё один список из чата, а автоматическая сводка того, что действительно отвечает. Каждый час скрипт собирает ссылки из открытых источников, склеивает одинаковые и стучится в каждый сервер. В таблицу попадают только те, что ответили; всё остальное отсеивается до публикации.
 
-Сайт: https://ferhatacer90.github.io/mtproxy-list/ · полный список: https://ferhatacer90.github.io/mtproxy-list/proxy.html · 900 серверов, обновлено 24.09.2026 00:07 МСК.
+Сайт: https://ferhatacer90.github.io/mtproxy-list/ · полный список: https://ferhatacer90.github.io/mtproxy-list/proxy.html · 900 серверов, обновлено 24.09.2026 01:08 МСК.
 
 - [MTProxy (главный каталог)](https://tgmtproxy.github.io/mtproxy/)
 - [TG Proxy Live](https://oznurakaro04.github.io/telegram-proxy-live/)
